@@ -1,7 +1,3 @@
-# video :-
-# https://youtu.be/NAQEj-c2CI8?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
-#
-#
 
 print(type(2)) # <class 'int'>
 print('--------------------------------------')
